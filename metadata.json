@@ -1,0 +1,6 @@
+{
+  "name": "CampusSound - Smart Campus Noise Environment Reporting & Analysis System",
+  "description": "Full-stack smart campus noise reporting, threshold alerts, analytics dashboard, and LangChain4j/Gemini AI-assisted insights for colleges.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
